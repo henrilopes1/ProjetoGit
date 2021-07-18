@@ -1,3 +1,3 @@
 # ProjetoGit
-Esse são alguns minis projetos para eu treinar programação 
+E só para eu treinar programação!
 
